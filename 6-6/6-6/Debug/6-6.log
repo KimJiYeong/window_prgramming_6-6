@@ -1,0 +1,12 @@
+﻿  소스.cpp
+c:\users\user\documents\visual studio 2015\projects\6-6\6-6\소스.cpp(76): warning C4101: 'oldBrush' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\6-6\6-6\소스.cpp(76): warning C4101: 'hBrush' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\6-6\6-6\소스.cpp(72): warning C4101: 'memdc2' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\6-6\6-6\소스.cpp(74): warning C4101: 'hButton' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\6-6\6-6\소스.cpp(333): warning C4101: 'oldBrush' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\6-6\6-6\소스.cpp(330): warning C4101: 'hdc' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\6-6\6-6\소스.cpp(333): warning C4101: 'hBrush' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\6-6\6-6\소스.cpp(332): warning C4101: 'd_ps' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\6-6\6-6\소스.cpp(331): warning C4101: 'hButton' :참조되지 않은 지역 변수입니다.
+  6-6.vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\6-6\Debug\6-6.exe
+  6-6.vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\6-6\Debug\6-6.pdb (Full PDB)
